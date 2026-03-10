@@ -1,0 +1,6 @@
+__pycache__/
+.env
+heart.csv
+model.pkl
+model_quiz.pkl
+*.pkl
