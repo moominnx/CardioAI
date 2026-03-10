@@ -1,4 +1,4 @@
-# 🫀 AI Health Risk Assessment
+# 🫀 CardioAI
 
 ระบบประเมินความเสี่ยงโรคหัวใจเบื้องต้นด้วย ML + LLM (Typhoon)
 
@@ -36,7 +36,7 @@ User Input (Streamlit)
     ↓
 Random Forest Model → Risk Score (%)
     ↓
-Groq LLM (Llama 3.3 70B) → Thai Explanation
+Typhoon LLM → Thai Explanation
     ↓
 Display Results + Warnings
 ```
